@@ -1,0 +1,17 @@
+#stl {
+  text-align:center;
+  color:#69FEF3;
+}
+
+#stl1 {
+  text-align:center;
+}
+
+#collapse1{
+overflow-y:scroll;
+height:250px;
+}
+#ie{
+  position: absolute;
+  top: 200px; left: 450px;
+}

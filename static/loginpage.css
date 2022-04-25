@@ -1,0 +1,12 @@
+#login {
+  color: #69FEF3;
+  margin: auto;
+  border-radius: 25px;
+  border: 0px solid #bfbfbf;
+  padding: 20px;
+  text-align:center
+}
+
+.form-label{
+  text-align:left
+}
